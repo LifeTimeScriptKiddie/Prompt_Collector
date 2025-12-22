@@ -1,7 +1,3 @@
-# 🔍 Collected Prompt Injection Database
+The list of potential prompts you provided is empty.
 
-Category | Query (Raw) | Repository | 
-| --- | --- | --- | 
-| | | | 
-
-*Note: No data was provided. Please provide the list of GitHub search results to populate the table.*
+Therefore, I cannot proceed with data cleaning, categorization, or building the Markdown table as there is no data to process. Please provide the actual list of GitHub search results or potential prompts so I can generate the "Prompt Injection Database" report.
