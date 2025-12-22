@@ -1,1 +1,1 @@
-It looks like the `Data:` section is empty. Please provide the raw GitHub search results so I can build the "Prompt Injection Database" report.
+Please provide the actual data you have collected. I need the raw list of GitHub search results (items and their data) to build the "Prompt Injection Database" report.
